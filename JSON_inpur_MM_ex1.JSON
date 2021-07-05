@@ -1,1 +1,1 @@
-{ "AllHoles": [ { "name": "Hole1", "type": "circle", "position": [0.1, 0.5, 0.0 ] }, { "name": "Hole2", "type": "triangle", "position": [0.5, 0.5, 0.0 ] } ] }
+{ "AllHoles": [ { "name": "Hole1", "type": "circle", "position": [0.1, 0.0, 0.4 ] }, { "name": "Hole2", "type": "triangle", "position": [0.5, 0.0, 0.5 ] } ] }
