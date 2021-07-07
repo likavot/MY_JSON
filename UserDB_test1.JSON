@@ -1,1 +1,1 @@
-{"UserDB": [ {"alias": "iLika", "e-mail": "pomojka17@gmail.com"}, { "alias": "Jaeyoung", "e-mail": "jaeyoung.cho@siemens.com"}, {"alias": "MarynaZ", "e-mail": "maryna.zabigailo@gmail.com"} ]}
+{"UserDB": [ {"alias": "iLika", "e-mail": "pomojka17@gmail.com", "role": "admin"}, { "alias": "Jaeyoung", "e-mail": "jaeyoung.cho@siemens.com", "role": "development"}, {"alias": "MarynaZ", "e-mail": "maryna.zabigailo@gmail.com", "role": "customer"} ]}
